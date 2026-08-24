@@ -1,5 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-# Name : SREEJAA R      Register Number : 21005220101
+# Name : SREEJAA R 
+# Register Number : 21005220101
 # Date : 23-07-26
 # AIM :
 ## To write a C program to implement a symbol table.
