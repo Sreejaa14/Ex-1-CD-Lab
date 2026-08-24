@@ -76,6 +76,7 @@ int main() {
 	return 0;
 }
 
+
 # OUTPUT
 <img width="1920" height="1080" alt="Screenshot (3536)" src="https://github.com/user-attachments/assets/709eaa15-e89c-4cae-903e-9074bce66de2" />
 
